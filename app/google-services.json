@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462370361833",
+    "project_id": "retro-fit-weather",
+    "storage_bucket": "retro-fit-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462370361833:android:f4736e692832a350ad7b78",
+        "android_client_info": {
+          "package_name": "com.creolin.retro_fit_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462370361833-09r2l6svlm1jlm1stk22p2fj72t1t4td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvTBfMaZnbUCEdBVQ5ZeZ6PdPv1iZml0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462370361833-09r2l6svlm1jlm1stk22p2fj72t1t4td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
